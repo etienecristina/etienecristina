@@ -1,4 +1,4 @@
-### Oii, meu nome é Etiene e esse é meu GitHub 👋
+### Hi! My name is Etiene and that's my GitHub 👋
 
 <div align="left">
   <a href="https://github.com/etienecristina">
@@ -8,7 +8,7 @@
  
   
   
-### 💻 Tecnologias
+### 💻 Technologies
   
 <div style="display: inline_block">
   <img align="center" alt="etiene-android" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg"/>
@@ -38,7 +38,7 @@
      <img align="center" alt="windows" height="30" weight="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   </div><br><br>
   
-  ### 📱 Contatos
+  ### 📱 Contact
   
 <div>
    <a href="https://www.linkedin.com/in/etiene-cristina" target="_blank"> <img src="https://img.shields.io/badge/EtieneCristina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
