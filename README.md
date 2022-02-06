@@ -29,7 +29,6 @@
   <img align="center" alt="vscode" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>    
   <img align="center" alt="androidstudio" height="30" width="100" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />    
   <img align="center" alt="clion" height="30" width="100" src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"/>
-  <img align="center" alt="sublimetext" height="30" width="100" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
   </div><br><br>
   
   ### 💻 OS
