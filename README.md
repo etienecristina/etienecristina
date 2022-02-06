@@ -25,7 +25,7 @@
   ### 📄 IDE's 
    
 <div style="display: inline_block"><br>
-  <img align="center" alt="intellij" height="30" width="100" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>   
+  <img align="center" alt="intellij" height="30" width="100" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>  
   <img align="center" alt="vscode" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>    
   <img align="center" alt="androidstudio" height="30" width="100" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />    
   <img align="center" alt="clion" height="30" width="100" src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"/>
@@ -34,8 +34,8 @@
   ### 💻 OS
   
   <div style="display: inline_block"><br>   
-     <img align="center" alt="windows" height="30" weight="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-     <img align="center" alt="linuxmint" height="30" weight="100" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
+     <img align="center" alt="windows" height="50" weight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+     <img align="center" alt="linuxmint" height="50" weight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>    
   </div><br><br>
   
   ### 📱 Contact
